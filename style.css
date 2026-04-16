@@ -102,6 +102,18 @@ main {
   object-fit: cover;
   border-radius: 10px;
 }
+.annualfista { 
+    background-color: gray;
+   min-height: fit-content;
+   
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+.annual-fista {
+    background:linear-gradient(rgb(158, 152, 152) , rgba(80, 77, 77, 0.699));
+    text-shadow: 2px 2px 8px brown;
+}
 .contact {
   padding: 40px;
   text-align: center;
