@@ -23,6 +23,7 @@ staff.forEach(function(card) {
     });
 });
 
+
 // clock 
 
 function updateClock() {
